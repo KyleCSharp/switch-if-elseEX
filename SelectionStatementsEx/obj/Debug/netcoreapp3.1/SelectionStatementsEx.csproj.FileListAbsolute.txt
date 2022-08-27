@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\bin\Debug\netcoreapp3.1\SelectionStatementsEx.exe
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\bin\Debug\netcoreapp3.1\SelectionStatementsEx.deps.json
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\bin\Debug\netcoreapp3.1\SelectionStatementsEx.runtimeconfig.json
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\bin\Debug\netcoreapp3.1\SelectionStatementsEx.runtimeconfig.dev.json
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\bin\Debug\netcoreapp3.1\SelectionStatementsEx.dll
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\bin\Debug\netcoreapp3.1\SelectionStatementsEx.pdb
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.AssemblyInfo.cs
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.dll
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.pdb
+C:\Users\kylel\repos\SelectionStatementsEx\SelectionStatementsEx\obj\Debug\netcoreapp3.1\SelectionStatementsEx.genruntimeconfig.cache
